@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
  🎓 Estágiaria Full Stack na Buser Brasil.
-- :seedling: Desenvolvendo em CSS/ HTML/ Python/ Java/ JavaScript.
-- :books: Estudando Análise e Desenvolvimento de Sistemas.
+ :seedling: Desenvolvendo em CSS/ HTML/ Python/ Java/ JavaScript.
+ :books: Análise e Desenvolvimento de Sistemas.
 <div align="center">
   <a href="https://github.com/fernandalizs">
   <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=fernandalizs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
