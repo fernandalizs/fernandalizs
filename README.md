@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 🎓 Estágiaria Full Stack na Buser Brasil.
- :seedling: Desenvolvendo em CSS/ HTML/ Python/ Java/ JavaScript.
- :books: Análise e Desenvolvimento de Sistemas.
+- 🎓 Estágiaria Full Stack na Buser Brasil.
+- :seedling: Linguagens: CSS - HTML - Python - JavaScript.
+- :books: Análise e Desenvolvimento de Sistemas.
 <div align="center">
   <a href="https://github.com/fernandalizs">
   <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=fernandalizs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -30,8 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Feza-Python" height="60" width="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Feza-JS" height="60" width="70"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Feza-React" height="60" width="70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
   <img align="center" alt="Feza-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />          
           
 </div>
