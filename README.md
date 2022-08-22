@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 - 🎓 Estágiaria Full Stack na Buser Brasil.
 - 📚 Análise e Desenvolvimento de Sistemas.
@@ -11,13 +11,13 @@
 
 ## 🖥️ Tecnologias e ferramentas:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Feza-HTML" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Feza-CSS" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Feza-Python" height="60" width="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Feza-JS" height="60" width="70"
+  <img align="center" alt="HTML" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="60" width="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JS" height="60" width="70"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-  <img align="center" alt="Feza-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />          
+  <img align="center" alt="Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />          
           
 </div>
   
