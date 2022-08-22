@@ -20,7 +20,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
   <img align="center" alt="Feza-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />          
           
 </div>
+  
+  
   ##
+  
 <div>
    <a href="https://www.linkedin.com/in/fernanda-liz-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
     <a href = "mailto:fernandaliz2004@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
