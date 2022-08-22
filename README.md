@@ -1,28 +1,15 @@
 ### Hi there 👋
 
-<!--
-**fernandalizs/fernandalizs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🎓 Estágiaria Full Stack na Buser Brasil.
-- :books: Análise e Desenvolvimento de Sistemas.
+- 📚 Análise e Desenvolvimento de Sistemas.
+
 <div align="center">
   <a href="https://github.com/fernandalizs">
   <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=fernandalizs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandalizs&layout=compact&langs_count=7&theme=dark"/>
 </div>
- ## 🖥️ Tecnologias e ferramentas:
+
+## 🖥️ Tecnologias e ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Feza-HTML" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Feza-CSS" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
