@@ -17,7 +17,9 @@
   <img align="center" alt="JS" height="60" width="70"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="VueJS" height="60" width="70"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />        
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" alt="Vuetify" height="60" width="70"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
   <img align="center" alt="Django" height="60" width="70" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />          
           
